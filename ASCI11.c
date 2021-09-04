@@ -1,13 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#include max 20
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
 int main() 
 {
 	char ch;
-	int a;
-	int b;
 	printf("\n enter any charcter");
 	scanf("%c",&ch);
 	if ((ch=='a')||(ch=='e')||(ch=='i')||(ch=='o')||(ch=='u'))
