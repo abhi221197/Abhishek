@@ -5,6 +5,7 @@
 
 int main() 
 {
+	int n;
 	char ch;
 	int a;
 	int b;
